@@ -1,0 +1,27 @@
+{
+  "name": "learning-reactjs",
+  "version": "1.0.0",
+  "description": "Implementing some example to learn all features related to reactjs",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "bower": "^1.4.1",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "postinstall": "bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cepinos/learning-reactjs.git"
+  },
+  "author": "cesarpino547@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cepinos/learning-reactjs/issues"
+  },
+  "homepage": "https://github.com/cepinos/learning-reactjs#readme"
+}
